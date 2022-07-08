@@ -7,6 +7,6 @@ I'm a software engineer who is passionate about making contributing to open-sour
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifzyy&layout=compact)](https://github.com/ifzyy/github-readme-stats)
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  <img src="https://profile-counter.glitch.me/ifzyy/count.svg" />
 </p>
 
