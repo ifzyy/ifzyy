@@ -1,5 +1,5 @@
-# Hello World
-I'm a software engineer who is passionate about creating technology to help people and companies.  Some technologies I enjoy working with include ReactJS,JavaScript, APIs  mongoDb and node.js. In 2022, I made the great decision to enroll for the Microverse online school in which i learnt not only technical skills but also soft skills.
+<h1 align="center">Hi 👋, I'm Johnson</h1>
+I'm a software engineer who is passionate about creating technology to help people and companies.  Some technologies I enjoy working with include ReactJS,JavaScript, APIs  mongoDb and node.js. In 2022, I made the great decision to enroll for the Microverse online school in which i learnt not only technical skills but also soft skills. I am currently open for oppourtunities.
 
 
 ## Tech-Stack, Tools & Technologies :computer:
