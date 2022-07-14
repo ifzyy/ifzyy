@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Johnson</h1>
-I'm a software engineer who is passionate about creating technology to help people and companies.  Some technologies I enjoy working with include ReactJS,JavaScript, APIs  mongoDb and node.js.I am currently open for oppourtunities.
+I'm a software engineer who is passionate about creating technology to help people and companies.  Some technologies I enjoy working with include ReactJS,JavaScript, APIs  mongoDb and Node.js.I am currently open for oppourtunities.
 
 
 ## Tech-Stack, Tools & Technologies :computer:
